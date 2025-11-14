@@ -1,0 +1,7 @@
+[Update]
+Name = GLABSys
+Version = 1.0.3
+URL = https://github.com/maitenaalaniz/GLABSysUpdates/raw/main/GLABSysInstaller.exe
+Description = Versión inicial
+Size = 15000
+Mandatory = No
